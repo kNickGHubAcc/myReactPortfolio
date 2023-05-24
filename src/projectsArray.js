@@ -105,8 +105,15 @@ export const projectsArray =
     link: "https://my-note-keeper.vercel.app/"
   },
   {
-    name: "myMERNstack",
-    image: loading,
-    skills: "HTML, CSS, MERN (MongoDB, ExpressJS, ReactJS, NodeJS)"
+    name: "myMoviesApp",
+    image: moviesApp.png,
+    skills: "MERN stack (client-server)",
+    github: "https://github.com/kNickGHubAcc/myMoviesApp"
+  },
+  {
+    name: "myNetflix",
+    image: netflix.png,
+    skills: "MERN Stack (client-server)"
+    github: "https://github.com/kNickGHubAcc/myNetflix"
   }
 ]

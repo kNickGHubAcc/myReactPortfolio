@@ -106,14 +106,12 @@ export const projectsArray =
   },
   {
     name: "myMoviesApp",
-    image: moviesApp.png,
     skills: "MERN stack (client-server)",
     github: "https://github.com/kNickGHubAcc/myMoviesApp"
   },
   {
     name: "myNetflix",
-    image: netflix.png,
-    skills: "MERN Stack (client-server)"
+    skills: "MERN Stack (client-server)",
     github: "https://github.com/kNickGHubAcc/myNetflix"
   }
 ]

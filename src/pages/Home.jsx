@@ -31,7 +31,7 @@ function Home()
             </li>
             <li className="item">
               <h2>Other Technologies</h2>
-              <span> APIs | RESTful APIs | Git | GitHub | Unix command line </span>
+              <span> APIs | RESTful APIs | Git | GitHub | Unix command line | Axios | Redux </span>
             </li>
           </ol>
       </div>

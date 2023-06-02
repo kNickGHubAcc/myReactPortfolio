@@ -9,9 +9,9 @@ import myNewsLetter from './images/myNewsLetter.png'
 import myWeatherApp from './images/myWeatherApp.png'
 import REST from './images/REST.png'
 import myUrlShortener from './images/myUrlShortener.png'
-import loading from './images/loading.jpg'
 import myReactPortfolio from './images/myReactPortfolio.png'
 import myKeeper from './images/myKeeper.png'
+import mern from './images/mern.png'
 
 
 export const projectsArray =
@@ -106,7 +106,9 @@ export const projectsArray =
   },
   {
     name: "myMERNstack",
-    image: loading,
-    skills: "HTML, CSS, MERN (MongoDB, ExpressJS, ReactJS, NodeJS)"
+    image: mern,
+    skills: "HTML, CSS, MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+    github: "https://github.com/kNickGHubAcc/myMoviesApp",
+    link: "https://my-movies-app-woad.vercel.app/"
   }
 ]

@@ -109,6 +109,6 @@ export const projectsArray =
     image: mern,
     skills: "MERN stack (client-server)",
     github: "https://github.com/kNickGHubAcc/myMoviesApp",
-    link: "https://my-movies-app-woad.vercel.app/"
+    link: "https://my-movies-app-nine.vercel.app/"
   }
 ]

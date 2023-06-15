@@ -12,6 +12,7 @@ import myUrlShortener from './images/myUrlShortener.png'
 import myReactPortfolio from './images/myReactPortfolio.png'
 import myKeeper from './images/myKeeper.png'
 import mern from './images/mern.png'
+import mySocialMediaApp from './images/mySocialMediaApp.png'
 
 
 export const projectsArray =
@@ -110,5 +111,12 @@ export const projectsArray =
     skills: "MERN stack (client-server)",
     github: "https://github.com/kNickGHubAcc/myMoviesApp",
     link: "https://my-movies-app-nine.vercel.app/"
+  },
+  {
+    name: "mySocialMediaApp",
+    image: mySocialMediaApp,
+    skills: "MERN stack (client-server)",
+    github: "https://github.com/kNickGHubAcc/mySocialMediaApp",
+    link: "https://my-social-media-app-six.vercel.app/"
   }
 ]

@@ -21,21 +21,21 @@ import myMeals from './images/myMeals.png'
 export const projectsArray =
 [
   {
-    name: "myRestaurant",
+    name: "myRestaurantPage",
     image: myRestaurant,
     skills: "HTML, CSS, Bootstrap",
     github: "https://github.com/kNickGHubAcc/myRestaurant",
     link: "https://my-restaurant-pearl.vercel.app/"
   },
   {
-    name: "myIcsd",
+    name: "myIcsdPage",
     image: myIcsd,
     skills: "HTML, CSS, Bootstrap",
     github: "https://github.com/kNickGHubAcc/myIcsd",
     link: "https://my-icsd.vercel.app/"
   },
   {
-    name: "myTinDog",
+    name: "myTinDogPage",
     image: myTinDog,
     skills: "HTML, CSS, Bootstrap",
     github: "https://github.com/kNickGHubAcc/myTinDog",
@@ -84,7 +84,7 @@ export const projectsArray =
     link: "https://my-simon-game.vercel.app/"
   },
   {
-    name: "myNewsLetter",
+    name: "myNewsLetterApp",
     image: myNewsLetter,
     skills: "HTML, NodeJS, ExpressJS, HTTPS, API",
     github: "https://github.com/kNickGHubAcc/myNewsLetter",

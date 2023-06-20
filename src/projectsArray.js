@@ -13,6 +13,9 @@ import myReactPortfolio from './images/myReactPortfolio.png'
 import myKeeper from './images/myKeeper.png'
 import mern from './images/mern.png'
 import mySocialMediaApp from './images/mySocialMediaApp.png'
+import myBanking from './images/myBanking.png'
+import myPlaces from './images/myPlaces.png'
+import myMeals from './images/myMeals.png'
 
 
 export const projectsArray =
@@ -39,6 +42,13 @@ export const projectsArray =
     link: "https://my-tin-dog.vercel.app/"
   },
   {
+    name: "myBankingPage",
+    image: myBanking,
+    skills: "HTML, CSS, TailwindCSS",
+    github: "https://github.com/kNickGHubAcc/myBankingPage",
+    link: "https://my-banking-site.vercel.app/"
+  },
+  {
     name: "myDrumKit",
     image: myDrumKit,
     skills: "HTML, CSS, Javascript",
@@ -58,6 +68,13 @@ export const projectsArray =
     skills: "HTML, CSS, Javascript",
     github: "https://github.com/kNickGHubAcc/mySnakeGame",
     link: "https://my-snake-game-hazel.vercel.app/"
+  },
+  {
+    name: "myPlacesPage",
+    image: myPlaces,
+    skills: "HTML, CSS, SCSS, Javascript",
+    github: "https://github.com/kNickGHubAcc/myPlacesPage",
+    link: "https://my-places-page.vercel.app/"
   },
   {
     name: "mySimonGame",
@@ -118,5 +135,12 @@ export const projectsArray =
     skills: "MERN stack (client-server)",
     github: "https://github.com/kNickGHubAcc/mySocialMediaApp",
     link: "https://my-social-media-app-six.vercel.app/"
+  },
+  {
+    name: "myMealsSite",
+    image: myMeals,
+    skills: "Vue.js, Vuex, TailwindCSS",
+    github: "https://github.com/kNickGHubAcc/myMealsSite",
+    link: "https://my-meals-site.vercel.app/"
   }
 ]

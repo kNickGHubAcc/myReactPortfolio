@@ -19,19 +19,19 @@ function Home()
           <ol className="list">
             <li className="item">
               <h2>Front-End</h2>
-              <span> HTML | CSS | Bootstrap | DOM | jQuery | NPM | ReactJS | Material UI </span>
+              <span> HTML | CSS | SCSS | Bootstrap | TailwindCSS | DOM | jQuery | NPM | ReactJS | Material UI | Responsive design | VueJS </span>
             </li>
             <li className="item">
               <h2>Back-End</h2>
-              <span> NodeJS | ExpressJS | mySQL | MongoDB | Mongoose | Postman </span>
+              <span> NodeJS | ExpressJS | mySQL | MongoDB | Mongoose | Postman | Security | Firebase</span>
             </li>
             <li className="item">
               <h2>Languages</h2>
-              <span> C | C++ | Java | Javascript | SQL | PHP </span>
+              <span> C | C++ | Java | Javascript | SQL | PHP | Python</span>
             </li>
             <li className="item">
               <h2>Other Technologies</h2>
-              <span> APIs | RESTful APIs | Git | GitHub | Unix command line | Axios | Redux </span>
+              <span> APIs | RESTful APIs | Git | GitHub | Unix command line | Axios | Redux | Redux Toolkit | Vuex | Docker </span>
             </li>
           </ol>
       </div>

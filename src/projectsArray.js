@@ -16,6 +16,7 @@ import mySocialMediaApp from './images/mySocialMediaApp.png'
 import myBanking from './images/myBanking.png'
 import myPlaces from './images/myPlaces.png'
 import myMeals from './images/myMeals.png'
+import myCurrency from './images/myCurrency.png'
 
 
 export const projectsArray =
@@ -135,6 +136,13 @@ export const projectsArray =
     skills: "MERN stack (client-server)",
     github: "https://github.com/kNickGHubAcc/mySocialMediaApp",
     link: "https://my-social-media-app-six.vercel.app/"
+  },
+  {
+    name: "myCurrencyCalculatorApp",
+    image: myCurrency,
+    skills: "MERN stack (client-server)",
+    github: "https://github.com/kNickGHubAcc/myCurrencyCalculator",
+    link: "https://my-currency-calculator-app.vercel.app/"
   },
   {
     name: "myMealsSite",

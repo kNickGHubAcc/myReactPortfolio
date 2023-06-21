@@ -65,6 +65,16 @@ function Experience()
           <h3 className="vertical-timeline-element-title"> Master's Thesis  </h3>
           <p> Profile of Cyber Crimes in Greece and Ways to Prevent & Confront them </p>
         </VerticalTimelineElement>
+
+        <VerticalTimelineElement
+          className = "vertical-timeline-element--work"
+          date = "2023"
+          iconStyle = {{background: "#e9d35b", color: "#fff"}}
+          icon = {<WorkIcon/>}  >
+          <h3 className="vertical-timeline-element-title"> Freelancing </h3>
+          <h4 className="vertical-timeline-element-subtitle"> Samos </h4>
+          <p> Web development projects in fellow students </p>
+        </VerticalTimelineElement>
       </VerticalTimeline>
 
     </div>

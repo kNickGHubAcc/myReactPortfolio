@@ -17,6 +17,7 @@ import myBanking from './images/myBanking.png'
 import myPlaces from './images/myPlaces.png'
 import myMeals from './images/myMeals.png'
 import myCurrency from './images/myCurrency.png'
+import myBookStore from './images/myBookStore.png'
 
 
 export const projectsArray =
@@ -150,5 +151,12 @@ export const projectsArray =
     skills: "Vue.js, Vuex, TailwindCSS",
     github: "https://github.com/kNickGHubAcc/myMealsSite",
     link: "https://my-meals-site.vercel.app/"
+  },
+  {
+    name: "myBookStore",
+    image: myBookStore,
+    skills: "PHP, MySQL",
+    github: "https://github.com/kNickGHubAcc/myBookStore",
+    link: "https://mybookstorephp.000webhostapp.com/login.php"
   }
 ]

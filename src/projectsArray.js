@@ -154,14 +154,14 @@ export const projectsArray =
     link: "https://my-meals-site.vercel.app/"
   },
   {
-    name: "BookStore with Admin Dashboard",
+    name: "BookStoreApp",
     image: myBookStore,
     skills: "PHP, MySQL",
     github: "https://github.com/kNickGHubAcc/myBookStore",
     link: "https://mybookstorephp.000webhostapp.com/login.php"
   },
   {
-    name: "onlineDelivery with Admin Dashboard",
+    name: "OnlineDeliveryApp",
     image: myOnlineDelivery,
     skills: "PHP, MySQL",
     github: "https://github.com/kNickGHubAcc/OnlineFoodApp-with-Admin-Dashboard",

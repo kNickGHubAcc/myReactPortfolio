@@ -19,6 +19,7 @@ import myMeals from './images/myMeals.png'
 import myCurrency from './images/myCurrency.png'
 import myBookStore from './images/myBookStore.png'
 import myOnlineDelivery from './images/myOnlineDelivery.png'
+import myBookStoreSoft from './images/myBookStore-Soft.png'
 
 
 export const projectsArray =
@@ -140,6 +141,13 @@ export const projectsArray =
     link: "https://my-social-media-app-six.vercel.app/"
   },
   {
+    name: "BookStoreApp",
+    image: myBookStoreSoft,
+    skills: "MERN stack (client-server)",
+    github: "https://github.com/kNickGHubAcc/myBookStore-Softweb",
+    link: "https://my-book-store-softweb-cl.vercel.app/"
+  },
+  {
     name: "CurrencyCalculatorApp",
     image: myCurrency,
     skills: "MERN stack (client-server)",
@@ -154,7 +162,7 @@ export const projectsArray =
     link: "https://my-meals-site.vercel.app/"
   },
   {
-    name: "BookStoreApp",
+    name: "WebStoreApp",
     image: myBookStore,
     skills: "PHP, MySQL",
     github: "https://github.com/kNickGHubAcc/myBookStore",

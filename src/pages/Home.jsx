@@ -23,7 +23,7 @@ function Home()
             </li>
             <li className="item">
               <h2>Back-End</h2>
-              <span> NodeJS | ExpressJS | mySQL | MongoDB | Mongoose | Firebase | Accesibility & Security</span>
+              <span> NodeJS | ExpressJS | mySQL | MongoDB | Mongoose | Firebase | Cloudinary | Accesibility & Security</span>
             </li>
             <li className="item">
               <h2>Languages</h2>
@@ -31,7 +31,7 @@ function Home()
             </li>
             <li className="item">
               <h2>Other Technologies</h2>
-              <span> APIs | RESTful APIs | Git | GitHub | Axios | Redux | Redux Toolkit | Vuex </span>
+              <span> APIs | RESTful APIs | Git | GitHub | Axios | Redux | Redux Toolkit | Vuex | Stripe</span>
             </li>
           </ol>
       </div>
